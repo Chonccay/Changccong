@@ -1,2 +1,2 @@
 # Changccong
-That's a wonderful Project!
+这是我的GitHub主页
